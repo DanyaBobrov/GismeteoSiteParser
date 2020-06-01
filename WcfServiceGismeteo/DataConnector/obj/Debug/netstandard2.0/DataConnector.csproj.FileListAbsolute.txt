@@ -1,0 +1,8 @@
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\bin\Debug\netstandard2.0\DataConnector.deps.json
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\bin\Debug\netstandard2.0\DataConnector.dll
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\obj\Debug\netstandard2.0\DataConnector.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\obj\Debug\netstandard2.0\DataConnector.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\bin\Debug\netstandard2.0\DataConnector.pdb
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\obj\Debug\netstandard2.0\DataConnector.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\obj\Debug\netstandard2.0\DataConnector.dll
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\DataConnector\obj\Debug\netstandard2.0\DataConnector.pdb

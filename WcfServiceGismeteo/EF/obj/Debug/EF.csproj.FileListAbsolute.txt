@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\bin\Debug\EF.dll.config
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\bin\Debug\EF.dll
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\bin\Debug\EF.pdb
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\bin\Debug\EntityFramework.dll
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\bin\Debug\EntityFramework.xml
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\obj\Debug\EF.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\obj\Debug\EF.csproj.CopyComplete
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\obj\Debug\EF.dll
+C:\Users\Даниил\source\repos\WcfServiceGismeteo\EF\obj\Debug\EF.pdb

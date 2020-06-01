@@ -1,0 +1,15 @@
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\bin\Debug\GismeteoPresentation.exe.config
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\bin\Debug\GismeteoPresentation.exe
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\bin\Debug\GismeteoPresentation.pdb
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoView.g.cs
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\App.g.cs
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation_MarkupCompile.cache
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation_MarkupCompile.lref
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoView.baml
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation.g.resources
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation.Properties.Resources.resources
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation.exe
+C:\Users\Даниил\source\repos\GismeteoPresentation\GismeteoPresentation\obj\Debug\GismeteoPresentation.pdb

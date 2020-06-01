@@ -1,0 +1,22 @@
+CREATE TABLE City
+(
+    Id INT NOT NULL PRIMARY KEY,
+    NameCity NVARCHAR(40)
+);
+CREATE TABLE DateForecast
+(
+    Id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    CityId INT,
+    DateForecast datetime,
+    FOREIGN KEY (CityId) REFERENCES City (Id)
+);
+CREATE TABLE Forecast
+(
+    Id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    DateForecastId INT,
+    TimeForecast INT,
+    Temperature NVARCHAR(10),
+    Wind NVARCHAR(10),
+    Pressure NVARCHAR(10),
+    FOREIGN KEY (DateForecastId) REFERENCES DateForecast (Id)
+);

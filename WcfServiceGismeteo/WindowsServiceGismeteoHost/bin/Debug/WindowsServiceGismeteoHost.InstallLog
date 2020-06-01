@@ -1,0 +1,95 @@
+﻿Выполняется установка сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
+Выполняется удаление сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
+Выполняется удаление сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
+Выполняется удаление сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+Выполняется удаление источника EventLog GismeteoHostService.
+Предупреждение. Источник GismeteoHostService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы GismeteoHostService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
+Устанавливается служба GismeteoHostService...
+Служба GismeteoHostService успешно установлена.
+Создается исходный EventLog GismeteoHostService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.InstallLog
+   assemblypath = C:\Users\Даниил\source\repos\WcfServiceGismeteo\WindowsServiceGismeteoHost\bin\Debug\WindowsServiceGismeteoHost.exe
+   logtoconsole = 
